@@ -12,9 +12,9 @@ Aides developer
 Channel = @Chist_Team
 */
 ob_start();
-$API_KEY = '407704730:AAHKx0JzawjrdAzNcSiTrTV1KBXEhZkiuHo'; //توکن ربات
-$bot_ = "AntiSapm_Api_Bot"; //نام کاربری ربات
-$sudo = 219727489; // آی دی عددی مدیر ربات
+$API_KEY = '867129178:AAEKVL8WbcYthE5D5KAaupsoLG16pQPbRmU'; //توکن ربات
+$bot_ = "Anti_link_Stormbot"; //نام کاربری ربات
+$sudo = 495339954; // آی دی عددی مدیر ربات
 define('API_KEY',$API_KEY);
 function bot($method,$datas=[]){
     $url = "https://api.telegram.org/bot".API_KEY."/".$method;
